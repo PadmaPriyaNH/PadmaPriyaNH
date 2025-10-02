@@ -13,7 +13,8 @@
 ---
 
 ## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/n-h-padma-priya) • nh.padmapriyaa@gmail.com  
+
+[LinkedIn](https://www.linkedin.com/in/n-h-padma-priya) • [Portfolio](https://nhpadmapriya.netlify.app/) • [Email](mailto:nh.padmapriyaa@gmail.com)
 
 ---
 
