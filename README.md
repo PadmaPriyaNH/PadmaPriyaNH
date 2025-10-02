@@ -36,7 +36,7 @@
 ## 🔧 Projects
 
 **Lexanova – AI Telegram Bot** 💻 [GitHub](https://github.com/PadmaPriyaNH/lexanova-telegrambot.git)  
-Python, Flask, SpaCy, NLP, APIs | AI Telegram bot with voice/text, 15+ APIs, mini-games, and an AI assistant that might replace me someday 🤖  
+Python, Flask, SpaCy, NLP, APIs | AI Telegram bot with voice/text, 15+ APIs, mini-games, and an AI assistant that might not replace me someday 🤖  
 
 **Lunara Jewellery – E‑commerce Platform** 💻 [GitHub](https://github.com/PadmaPriyaNH/lunara-jewellary-ecommerce-website.git) • 🌐 [Live Demo](https://lunara-jewellary-ecommerce-website.onrender.com/)  
 Flask, MySQL, JS, Chatbot | Full-stack e-commerce app; helps customers shop while I procrastinate on Netflix 🛍️  
