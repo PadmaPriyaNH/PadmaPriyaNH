@@ -44,7 +44,7 @@
 
 ---
 
-## 🔥 Featured Projects (Best → Good)
+## 🔥 Featured Projects
 
 ### 🤖 [Lexanova – AI-Powered Telegram Bot](https://github.com/PadmaPriyaNH/lexanova-telegrambot)
 💻 [GitHub](https://github.com/PadmaPriyaNH/lexanova-telegrambot.git)                                                                                                          
