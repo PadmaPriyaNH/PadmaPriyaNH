@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats
 ![PadmaPriyaNH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PadmaPriyaNH&show_icons=true&theme=radical&hide=issues)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadmaPriyaNH&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PadmaPriyaNH&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=PadmaPriyaNH&theme=radical&hide_border=true)
 
 ---
 
@@ -47,6 +47,7 @@
 ## 🔥 Featured Projects (Best → Good)
 
 ### 🤖 [Lexanova – AI-Powered Telegram Bot](https://github.com/PadmaPriyaNH/lexanova-telegrambot)
+💻 [GitHub](https://github.com/PadmaPriyaNH/lexanova-telegrambot.git)                                                                                                          
 **Python, Flask, spaCy, Cohere AI, gTTS**  
 Your 24/7 AI sidekick: tells jokes, checks weather, plays Snake, and even reads messages aloud.  
 *May or may not have replaced my late-night study buddy. (It’s cheaper than coffee.)*
